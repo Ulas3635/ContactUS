@@ -69,7 +69,7 @@
   <ItemGroup>
     <Content Include="ContactUs.html" />
     <Content Include="asdasd.html" />
-    <Content Include="HtmlPage1.html" />
+    <Content Include="index.html" />
     <Content Include="images\heart_PNG51351.png" />
     <Content Include="YourEbe.html" />
     <Content Include="images\thambsup.jpg" />
