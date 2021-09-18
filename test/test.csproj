@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="ContactUs.html" />
     <Content Include="asdasd.html" />
+    <Content Include="images\esramm.jpg" />
     <Content Include="index.html" />
     <Content Include="images\heart_PNG51351.png" />
     <Content Include="YourEbe.html" />
